@@ -22,8 +22,8 @@ It is designed to help users manage tasks, track progress, and boost productivit
 ---
 
 ##📁 Project Structure
-**synckr-flow-verto/**
 ```
+**synckr-flow-verto/**
 ├── index.html
 ├── style.css
 ├── script.js
