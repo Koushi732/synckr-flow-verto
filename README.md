@@ -25,11 +25,11 @@ The project is divided into multiple smaller modules (minor projects), each hand
 ```
 /synckr-flow-verto
 │
-├── /task-manager → Task creation, editing, deletion
-├── /habit-tracker → Track habits and daily routines
-├── /notes → Create and store quick notes
-├── /calendar → Simple event scheduling
-├── /main-app → Final integrated major project
+├── /module-task-manager → Handles creating, editing, and managing tasks
+├── /module-focus-limiter → Implements focus sessions and distractions limiter
+├── /module-ai-assistant → AI-based recommendations and automation
+├── /module-progress-tracker → Tracks performance, productivity trends, and goals
+├── /main-app → Integrates all modules into one application
 └── README.md
 ```
 ---
